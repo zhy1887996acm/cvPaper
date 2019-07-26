@@ -8,6 +8,8 @@
 
 
 
+
+
 Title：Deep Multi-Patch Aggregation Network for Image Style, Aesthetics, and Quality Estimation
 
 Description：2015ICCV，风格 美感 质量
@@ -15,6 +17,8 @@ Description：2015ICCV，风格 美感 质量
 Author's Home：{zlin, xshen, rmech}@adobe.com
 
 Code/Project：
+
+
 
 
 
@@ -28,6 +32,8 @@ Code/Project：http://graphics.cs.pdx.edu/project/deep-quality/model_release_CVP
 
 
 
+
+
 Title：Photo Aesthetics Ranking Network with Attributes and Content Adaptation
 
 Description：2016ECCV AADB，{xshen,zlin,rmech}@adobe.com
@@ -35,6 +41,8 @@ Description：2016ECCV AADB，{xshen,zlin,rmech}@adobe.com
 Author's Home：https://www.ics.uci.edu/~skong2/aesthetics.html
 
 Code/Project：https://github.com/aimerykong/deepImageAestheticsAnalysis
+
+
 
 
 
@@ -48,6 +56,8 @@ Code/Project：https://github.com/BestiVictory/ILGnet
 
 
 
+
+
 Title：A-Lamp: Adaptive Layout-Aware Multi-Patch Deep Convolutional Neural Network for Photo Aesthetic Assessment
 
 Description：2017CVPR 美感评价
@@ -55,6 +65,8 @@ Description：2017CVPR 美感评价
 Author's Home：
 
 Code/Project：
+
+
 
 
 
@@ -68,6 +80,8 @@ Code/Project：
 
 
 
+
+
 Title：Deep Aesthetic Quality Assessment with Semantic Information
 
 Description：2017期刊TIP，美感评价，MultiTaskLearning训练时加入了语义信息
@@ -75,6 +89,8 @@ Description：2017期刊TIP，美感评价，MultiTaskLearning训练时加入了
 Author's Home：黄凯奇http://people.gucas.ac.cn/~huangkaiqi，赫然http://people.ucas.ac.cn/~0019861
 
 Code/Project：
+
+
 
 
 
@@ -88,6 +104,8 @@ Code/Project：
 
 
 
+
+
 Title：Predicting Aesthetic Score Distribution through Cumulative Jensen-Shannon Divergence
 
 Description：2018AAAI：Score Distribution
@@ -98,6 +116,8 @@ Code/Project：https://github.com/BestiVictory/CJS-CNN
 
 
 
+
+
 Title：PAC-NET: PAIRWISE AESTHETIC COMPARISON NETWORK FOR IMAGE AESTHETIC ASSESSMENT
 
 Description：2018会议ICIP 美感评价
@@ -105,6 +125,8 @@ Description：2018会议ICIP 美感评价
 Author's Home：
 
 Code/Project：
+
+
 
 
 
@@ -122,6 +144,8 @@ https://github.com/TheFairBear/PyTorch-Neural-Image-Assessment
 
 
 
+
+
 Title：Effective Aesthetics Prediction with Multi-level Spatially Pooled Features
 
 Description：2019CVPR Multi-level
@@ -129,6 +153,8 @@ Description：2019CVPR Multi-level
 Author's Home：
 
 Code/Project：
+
+
 
 
 
@@ -141,3 +167,4 @@ Author's Home：崔超然http://cs.sdufe.edu.cn/info/1495/4594.htm
 实验室News：http://mla.sdu.edu.cn/info/1003/1558.htm
 
 Code/Project：
+
