@@ -1,3 +1,7 @@
+
+
+> ------
+>
 > Title：
 >
 > Description：
@@ -10,6 +14,8 @@
 
 
 
+------
+
 Title：Deep Multi-Patch Aggregation Network for Image Style, Aesthetics, and Quality Estimation
 
 Description：2015ICCV，风格 美感 质量
@@ -20,7 +26,7 @@ Code/Project：
 
 
 
-
+------
 
 Title：Composition-preserving Deep Photo Aesthetics Assessment
 
@@ -32,7 +38,7 @@ Code/Project：http://graphics.cs.pdx.edu/project/deep-quality/model_release_CVP
 
 
 
-
+------
 
 Title：Photo Aesthetics Ranking Network with Attributes and Content Adaptation
 
@@ -44,7 +50,7 @@ Code/Project：https://github.com/aimerykong/deepImageAestheticsAnalysis
 
 
 
-
+------
 
 Title：Deep Image Aesthetics Classification using Inception Modules and Fine-tuning Connected Layer
 
@@ -56,7 +62,7 @@ Code/Project：https://github.com/BestiVictory/ILGnet
 
 
 
-
+------
 
 Title：A-Lamp: Adaptive Layout-Aware Multi-Patch Deep Convolutional Neural Network for Photo Aesthetic Assessment
 
@@ -68,7 +74,7 @@ Code/Project：
 
 
 
-
+------
 
 Title：Personalized Image Aesthetic Quality Assessment by Joint Regression and Ranking
 
@@ -80,7 +86,7 @@ Code/Project：
 
 
 
-
+------
 
 Title：Deep Aesthetic Quality Assessment with Semantic Information
 
@@ -92,7 +98,7 @@ Code/Project：
 
 
 
-
+------
 
 Title：Photo Aesthetics Analysis via DCNN Feature Encoding
 
@@ -104,7 +110,7 @@ Code/Project：
 
 
 
-
+------
 
 Title：Predicting Aesthetic Score Distribution through Cumulative Jensen-Shannon Divergence
 
@@ -116,7 +122,7 @@ Code/Project：https://github.com/BestiVictory/CJS-CNN
 
 
 
-
+------
 
 Title：PAC-NET: PAIRWISE AESTHETIC COMPARISON NETWORK FOR IMAGE AESTHETIC ASSESSMENT
 
@@ -128,7 +134,7 @@ Code/Project：
 
 
 
-
+------
 
 Title：NIMA: Neural Image Assessment
 
@@ -144,7 +150,7 @@ https://github.com/TheFairBear/PyTorch-Neural-Image-Assessment
 
 
 
-
+------
 
 Title：Effective Aesthetics Prediction with Multi-level Spatially Pooled Features
 
@@ -156,7 +162,7 @@ Code/Project：
 
 
 
-
+------
 
 Title：Distribution-Oriented Aesthetics Assessment With Semantic-Aware Hybrid Network
 
