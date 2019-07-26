@@ -1,6 +1,4 @@
-
-
-> ------
+> -
 >
 > Title：
 >
@@ -10,7 +8,7 @@
 >
 > Code/Project：
 
-
+-
 
 
 
@@ -24,7 +22,7 @@ Author's Home：{zlin, xshen, rmech}@adobe.com
 
 Code/Project：
 
-
+-
 
 ------
 
@@ -36,7 +34,7 @@ Author's Home：http://web.cecs.pdx.edu/~fliu/project/deep-quality/
 
 Code/Project：http://graphics.cs.pdx.edu/project/deep-quality/model_release_CVPR_2016.zip
 
-
+-
 
 ------
 
@@ -48,7 +46,7 @@ Author's Home：https://www.ics.uci.edu/~skong2/aesthetics.html
 
 Code/Project：https://github.com/aimerykong/deepImageAestheticsAnalysis
 
-
+-
 
 ------
 
@@ -60,7 +58,7 @@ Author's Home：金鑫...，BestiVictory团队
 
 Code/Project：https://github.com/BestiVictory/ILGnet
 
-
+-
 
 ------
 
@@ -68,11 +66,11 @@ Title：A-Lamp: Adaptive Layout-Aware Multi-Patch Deep Convolutional Neural Netw
 
 Description：2017CVPR 美感评价
 
-Author's Home：
+Author's Home：[Shuang Ma](https://www.shuangma.me/)，[gibhub+排版](https://github.com/yunyikristy/cvpr2017)，
 
 Code/Project：
 
-
+-
 
 ------
 
@@ -80,11 +78,11 @@ Title：Personalized Image Aesthetic Quality Assessment by Joint Regression and 
 
 Description：2017WACV RegreRankingSVM
 
-Author's Home：
+Author's Home：[Bohyung Han](http://cvlab.postech.ac.kr/~bhhan/)，[Computer Vision Lab.](http://cvlab.postech.ac.kr/lab/publication.php)，
 
 Code/Project：
 
-
+-
 
 ------
 
@@ -92,11 +90,11 @@ Title：Deep Aesthetic Quality Assessment with Semantic Information
 
 Description：2017期刊TIP，美感评价，MultiTaskLearning训练时加入了语义信息
 
-Author's Home：黄凯奇http://people.gucas.ac.cn/~huangkaiqi，赫然http://people.ucas.ac.cn/~0019861
+Author's Home：[中科院](http://people.ucas.ac.cn/~0004554?language=en)，[黄凯奇](http://people.gucas.ac.cn/~huangkaiqi)，[赫然](http://people.ucas.ac.cn/~0019861)，
 
 Code/Project：
 
-
+-
 
 ------
 
@@ -108,7 +106,7 @@ Author's Home：
 
 Code/Project：
 
-
+-
 
 ------
 
@@ -120,7 +118,7 @@ Author's Home：金鑫...，BestiVictory团队
 
 Code/Project：https://github.com/BestiVictory/CJS-CNN
 
-
+-
 
 ------
 
@@ -132,7 +130,7 @@ Author's Home：
 
 Code/Project：
 
-
+-
 
 ------
 
@@ -148,7 +146,7 @@ https://github.com/QiushiYang/NIMA、
 
 https://github.com/TheFairBear/PyTorch-Neural-Image-Assessment
 
-
+-
 
 ------
 
@@ -160,7 +158,7 @@ Author's Home：
 
 Code/Project：
 
-
+-
 
 ------
 
@@ -168,9 +166,8 @@ Title：Distribution-Oriented Aesthetics Assessment With Semantic-Aware Hybrid N
 
 Description：2019TMM Distribution
 
-Author's Home：崔超然http://cs.sdufe.edu.cn/info/1495/4594.htm
-
-实验室News：http://mla.sdu.edu.cn/info/1003/1558.htm
+Author's Home：[崔超然](http://cs.sdufe.edu.cn/info/1495/4594.htm)、[实验室News](http://mla.sdu.edu.cn/info/1003/1558.htm)、
 
 Code/Project：
 
+-
