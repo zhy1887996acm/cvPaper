@@ -8,3 +8,6 @@ Downloading:
   
 CVPR,,2018,Disentangling Structure and Aesthetics for Content-aware Image Completion
 CVPR,,2011,High level describable attributes for predicting aesthetics and interestingness.
+
+"Automatic neural image cropper" Project's GitHub:
+https://github.com/thePetrMarek/AutomaticNeuralImageCropper
