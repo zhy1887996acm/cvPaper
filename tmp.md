@@ -23,11 +23,11 @@ CPU  (英特尔)Intel(R) Core(TM) i3-2120 CPU @ 3.30GHz(3300 Mhz)
 
 
 
-#### 显卡详情
+#### 显卡详情1
 
 http://news.mydrivers.com/1/193/193591_all.htm
 
-显卡名称  AMD Radeon HD 6450
+显卡名称  AMD Radeon HD 6450M
 
 显卡厂商  AMD
 
@@ -36,3 +36,11 @@ http://news.mydrivers.com/1/193/193591_all.htm
 内核名称  AMD Radeon Graphics Processor (0x6779)
 
 驱动版本  12.104.0.0
+
+#### 显卡详情2.llx
+
+显卡名称  AMD Radeon R7 M260
+
+#### 显卡详情3.zhy
+
+显卡名称  AMD Radeon HD 8500M
