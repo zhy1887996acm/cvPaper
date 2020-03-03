@@ -13,3 +13,6 @@ CVPR,,2011,High level describable attributes for predicting aesthetics and inter
 https://github.com/thePetrMarek/AutomaticNeuralImageCropper
 TF-Slim:
 https://github.com/tensorflow/models/tree/master/research/slim#pre-trained-models
+
+
+View Proposal Net(VPN) pre-trained models: https://drive.google.com/open?id=1IXBtvwn8fMCmDRczQExIR3ZSDhinoqbi
