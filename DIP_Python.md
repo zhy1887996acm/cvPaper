@@ -21,6 +21,8 @@ Others: https://github.com/abidrahmank/OpenCV2-Python-Tutorials/
 #### Name: scikit-image
 https://github.com/scikit-image/scikit-image
 
+skimage: https://github.com/scikit-image/scikit-image/tree/master/skimage
+
 https://scikit-image.org/docs/stable/user_guide.html
 
 #### Name: Pillow
