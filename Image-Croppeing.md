@@ -12,6 +12,11 @@ https://github.com/HuiZeng/Grid-Anchor-based-Image-Cropping-Pytorch
 ** this list is maintained by longpeng/yanyousan longpeng2008to2012@gmail.com wechat:Longlongtogo.**
 
 #### state-of-the-art algorithms
+
+根据方法分为两类：基于显著性/视觉注意力的方法，基于美学评价的方法
+
+又分为：滑窗、目标检测方法
+
 ##### Saliency/Attention-based methods
  * Attention Based Auto Image Cropping [[PDF]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.437.8815&rep=rep1&type=pdf)
  * Saliency Based Image Cropping [[PDF]](https://pdfs.semanticscholar.org/3cd9/348a133eea013e12438361d50f9ea8ccb5fa.pdf)
